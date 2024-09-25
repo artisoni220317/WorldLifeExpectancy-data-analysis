@@ -1,7 +1,32 @@
 # WorldLifeExpectancy-data-analysis
-This project aims to explore the WorldLifeExpectancy data to understand top performing branches and products, sales trend of of different products, customer behaviour. The aims is to study how sales strategies can be improved and optimized. The dataset was obtained from the Analyst Builder.
+This project aims to explore the WorldLifeExpectancy data to understand WorldLifeExpectancy data and its attributes like GDP,Minimum and Maximum Life Expectancy of different countries,Adult Mortality,and number of peoples with particular diseases. The dataset was obtained from the Analyst Builder.
 
-"In this recruiting competition, job-seekers are provided with historical sales data for 45 Walmart stores located in different regions. Each store contains many departments, and participants must project the sales for each department in each store. To add to the challenge, selected holiday markdown events are included in the dataset. These markdowns are known to affect sales, but it is challenging to predict which departments are affected and the extent of the impact."
+# Purpose of the Project
+The major aim of thie project is to gain insight into the WorldLifeExpectancy data to understand the different factors that affect Life Expectancy of different countries in the world.
+
+# About the Data
+The dataset was obtained from the Analyst Builder Website. This dataset contains data from different countries around the world.The data contains 18 columns and 2941 rows:
+
+Country	                               VARCHAR
+Year	                                 INT
+Status	                               VARCHAR
+Life expectancy                        FLOAT	
+Adult Mortality	                       INT
+infant deaths	                         INT
+percentage expenditure                 FLOAT	
+Measles 	                             INT
+BMI 	                                 FLOAT
+under-five deaths                      INT	
+Polio	                                 INT
+Diphtheria                             INT	 
+HIV/AIDS	                             DECIMAL
+GDP	                                   INT                                   
+thinness 1-19 years	                   FLOAT
+thinness 5-9 years	                   FLOAT
+Schooling	                             FLOAT
+Row_ID                                 INT
+
+
 
 
 
