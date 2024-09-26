@@ -7,7 +7,7 @@ The major aim of thie project is to gain insight into the WorldLifeExpectancy da
 # About the Data
 The dataset was obtained from the Analyst Builder Website. This dataset contains data from different countries around the world.The data contains 18 columns and 2941 rows:
 
-![export](https://github.com/user-attachments/assets/bf578c89-b79b-4781-b3a2-c25be413bb2a)
+![export (1)](https://github.com/user-attachments/assets/81096519-d25d-412d-879f-21984a5831f4)
 
 
 
