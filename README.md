@@ -16,7 +16,7 @@ The dataset was obtained from the Analyst Builder Website. This dataset contains
     1. Build a database.\
     2. Create table and insert the data.\
     3. Select columns with null values in them. There are no null values in our database as in creating the tables, we set NOT NULL for each field, hence null values are 
-         filtered out.\
+       filtered out.\
     4. Select (Country,Year ) as Primary Key as there is no unique attribute is present.\
     5. Identify Duplicates using ROW_NUMBER().\
     6. Delete those rows where ROW_NUMBER() is greater than 1.\
@@ -27,12 +27,12 @@ The dataset was obtained from the Analyst Builder Website. This dataset contains
 
 ### Generic Question
 
-1. Which Country have the MIN and MAX Life Expectancy?
-2. What is the Increase in Life Expectancy in last 15 years?
-3. Average Life Expectancy with GDP of the Country?
-4. Average Life Expectancy with Status?
-5. Average Life Expectancy in Countries having GDP>=1500
-6. Total Adult Mortality with Country and Year.
+   1. Which Country have the MIN and MAX Life Expectancy?
+   2. What is the Increase in Life Expectancy in last 15 years?
+   3. Average Life Expectancy with GDP of the Country?
+   4. Average Life Expectancy with Status?
+   5. Average Life Expectancy in Countries having GDP>=1500
+   6. Total Adult Mortality with Country and Year.
     
 
 
