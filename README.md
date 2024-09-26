@@ -1,10 +1,10 @@
 # WorldLifeExpectancy-data-analysis
 This project aims to explore the WorldLifeExpectancy data to understand WorldLifeExpectancy data and its attributes like GDP,Minimum and Maximum Life Expectancy of different countries,Adult Mortality,and number of peoples with particular diseases. The dataset was obtained from the Analyst Builder.
 
-# Purpose of the Project
+## Purpose of the Project
 The major aim of thie project is to gain insight into the WorldLifeExpectancy data to understand the different factors that affect Life Expectancy of different countries in the world.
 
-# About the Data
+## About the Data
 The dataset was obtained from the Analyst Builder Website. This dataset contains data from different countries around the world.The data contains 18 columns and 2941 rows:
 
 ![export (1)](https://github.com/user-attachments/assets/81096519-d25d-412d-879f-21984a5831f4)
@@ -27,10 +27,12 @@ The dataset was obtained from the Analyst Builder Website. This dataset contains
 
 ### Generic Question
 
-1. How many unique cities does the data have?
-2. In which city is each branch?
-
-
+1. Which Country have the MIN and MAX Life Expectancy?
+2. What is the Increase in Life Expectancy in last 15 years?
+3. Average Life Expectancy with GDP of the Country?
+4. Average Life Expectancy with Status?
+5. Average Life Expectancy in Countries having GDP>=1500
+6. Total Adult Mortality with Country and Year.
     
 
 
