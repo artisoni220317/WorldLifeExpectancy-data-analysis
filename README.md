@@ -7,26 +7,6 @@ The major aim of thie project is to gain insight into the WorldLifeExpectancy da
 # About the Data
 The dataset was obtained from the Analyst Builder Website. This dataset contains data from different countries around the world.The data contains 18 columns and 2941 rows:
 
-Country	                               VARCHAR
-Year	                                 INT
-Status	                               VARCHAR
-Life expectancy                        FLOAT	
-Adult Mortality	                       INT
-infant deaths	                         INT
-percentage expenditure                 FLOAT	
-Measles 	                             INT
-BMI 	                                 FLOAT
-under-five deaths                      INT	
-Polio	                                 INT
-Diphtheria                             INT	 
-HIV/AIDS	                             DECIMAL
-GDP	                                   INT                                   
-thinness 1-19 years	                   FLOAT
-thinness 5-9 years	                   FLOAT
-Schooling	                             FLOAT
-Row_ID                                 INT
-
-
 
 
 
