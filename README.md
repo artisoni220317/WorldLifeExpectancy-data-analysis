@@ -19,7 +19,7 @@ The dataset was obtained from the Analyst Builder Website. This dataset contains
     5.Identify Duplicates using ROW_NUMBER().\
     6.Delete those rows where ROW_NUMBER() is greater than 1.\
     7.Handle Missing Values in Status Column and Life Expectancy Column.\
-    8.To fill the missing in Life Expectancy Column we will use the Avg of the previous and Post year.\
+    8.To fill the missing in Life Expectancy Column we will use the Avg of the previous and Post year.
 
 
 
